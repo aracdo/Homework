@@ -7,9 +7,9 @@ using namespace std;
 
 int main()
 {
-    vector<int> A;
    int N,t;
    cin>>N;
+    vector<int> A(N);
      for (int i = 0; i < N; i++) {
         cin >> A[i];
     }
@@ -18,4 +18,5 @@ int main()
     for (int i=0;i < N;i++){
         cout<<A[i]<<' ';
     }
+
 }
