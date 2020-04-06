@@ -1,0 +1,17 @@
+Входные данные:
+2
+Ivanov Ivan 2 3 5
+Borisov Boris 5 4 3
+Ответ:
+Borisov Boris
+Ivanov Ivan
+
+Входные данные:
+3
+Yusipov Artem 3 4 5
+Kirillov Kirill 5 5 5
+Kondratev Kondrat 3 3 3
+Ответ:
+Kirillov Kirill
+Yusipov Artem
+Kondratev Kondrat
