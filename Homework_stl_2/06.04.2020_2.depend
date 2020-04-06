@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586167149 source:d:\Программирование\06.04.2020_2\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<algorithm>
+
